@@ -1,1 +1,2 @@
-chmod -R guo+X ./
+#!/bin/bash
+chmod -R guo+X .
